@@ -4,9 +4,7 @@ PhpFiddle Documentation
 
 .
 
-Documentation general - http://phpfiddle.org/main/documents
-
-PhpFiddle overview - http://phpfiddle.org/main/overview
+Documentation - http://phpfiddle.org/main/documents
 
 PhpFiddle APIs - http://phpfiddle.org/main/apis
 
